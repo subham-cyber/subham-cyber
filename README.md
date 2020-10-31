@@ -12,6 +12,9 @@
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
+🖌 [behance][behance] **|**
+🖥 [dribbble][dribbble] **|**
+🛍 [fiverr][fiverr] **|**
 👔 [linkedin][linkedin]
 
 Shoutout to [Brad Garropy][brad] for the inspiration!
@@ -19,6 +22,9 @@ Shoutout to [Brad Garropy][brad] for the inspiration!
 [website]: https://endoudesign.wordpress.com/
 [twitter]: https://twitter.com/subhamA005
 [instagram]: https://www.instagram.com/endou_01/
+[behance]: https://www.behance.net/subhamsaha221
+[dribbble]: https://dribbble.com/Subham_Designs
+[fiverr]:  https://www.fiverr.com/subhamsaha061
 [linkedin]: https://www.linkedin.com/in/subham-saha-a54487154/
 [brad]: https://github.com/bradgarropy
 
