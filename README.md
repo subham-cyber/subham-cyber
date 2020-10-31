@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi I'm Subham Saha. 👋
 
-<!--
-**subham-cyber/subham-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a UI Designer and a Developer!
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React.js, GraphQL, Selenium
+- 💬 Ask me about CSS, UI Design, JavaScript 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love Photography in my free time.
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[website]: https://endoudesign.wordpress.com/
+[twitter]: https://twitter.com/subhamA005
+[instagram]: https://www.instagram.com/endou_01/
+[linkedin]: https://www.linkedin.com/in/subham-saha-a54487154/
+[brad]: https://github.com/bradgarropy
+
+
+
