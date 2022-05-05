@@ -19,13 +19,13 @@
 
 Shoutout to [Brad Garropy][brad] for the inspiration!
 
-[website]: https://endoudesign.wordpress.com/
+[website]: https://subhamdesigns.webflow.io/
 [twitter]: https://twitter.com/subhamA005
 [instagram]: https://www.instagram.com/endou_01/
 [behance]: https://www.behance.net/subhamsaha221
 [dribbble]: https://dribbble.com/Subham_Designs
 [fiverr]:  https://www.fiverr.com/subhamsaha061
-[linkedin]: https://www.linkedin.com/in/subham-saha-a54487154/
+[linkedin]: https://www.linkedin.com/in/subham-saha-designer/
 [brad]: https://github.com/bradgarropy
 
 
