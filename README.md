@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning React.js, GraphQL, Selenium
 - 💬 Ask me about CSS, UI Design, JavaScript 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love Photography in my free time.
+- ⚡ Fun fact: I love Photography in my free time, and watching Anime or Watching History/Geography Vids on YT.
 - 📫 How to reach me: 
 
 
